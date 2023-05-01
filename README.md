@@ -1,6 +1,6 @@
 # Digital-music-store-Analysis
 
-Objective:-
+#Objective:-
 
 In this project I have examine the dataset with PostgreSQL(Pgadmin v4) and help the store understand its business growth.
 
